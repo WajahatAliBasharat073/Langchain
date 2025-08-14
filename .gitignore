@@ -1,7 +1,7 @@
 .venv/
 ./venv/
 venv/
-myvenv/
+myenv/
 ./myvenv
 
 ./myenv/
