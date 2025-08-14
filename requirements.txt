@@ -1,0 +1,27 @@
+# 🧠 Core LangChain Framework
+langchain
+langchain-core
+
+# 🔗 LangChain Integrations
+langchain-openai
+langchain-community
+langchain-google-genai
+langchain-anthropic
+langchain-huggingface
+
+# 🤖 LLM Providers
+openai
+google-generativeai
+transformers
+huggingface-hub
+
+# 📚 Document Indexing
+llama-index
+
+# 📊 Data Handling & Machine Learning
+numpy
+pandas
+scikit-learn
+
+# ⚙️ Environment Configuration
+python-dotenv
