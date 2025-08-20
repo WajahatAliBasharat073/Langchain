@@ -9,8 +9,8 @@
 !TutorialSet1/**
 !TutorialSet2/
 !TutorialSet2/**
-!TutorialSet3/
-!TutorialSet3/**
+!TutorialSet3DC/
+!TutorialSet3DC/**
 
 # Also keep .gitignore itself
 !.gitignore
