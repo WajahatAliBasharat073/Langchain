@@ -5,6 +5,8 @@
 !Projects/
 !Projects/**
 !notebooks/
+!TutorialSet1/
+!TutorialSet1/**
 
 # Also keep .gitignore itself
 !.gitignore
