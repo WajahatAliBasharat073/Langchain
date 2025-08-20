@@ -3,6 +3,7 @@
 
 # But keep these folders
 !Projects/
+!Projects/**
 !notebooks/
 
 # Also keep .gitignore itself
