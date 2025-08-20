@@ -1,6 +1,0 @@
-langchain
-openai
-langchain-openai
-langchain-community
-langchain-text-splitters
-huggingface-hub

@@ -1,7 +1,11 @@
-.venv/
-./venv/
-venv/
-myenv/
-./myvenv
+# Ignore everything
+*
 
-./myenv/
+# But keep these folders
+!Projects/
+!notebooks/
+
+# Also keep .gitignore itself
+!.gitignore
+!requirements.txt
+!README.md
