@@ -1,0 +1,10 @@
+sentence-transformers
+transformers
+uvicorn
+fastapi
+langchain
+ipykernel
+python-dotenv
+python-box
+streamlit
+ctransformers
